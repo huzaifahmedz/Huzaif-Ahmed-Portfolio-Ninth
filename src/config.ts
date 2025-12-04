@@ -3,7 +3,7 @@ export const config = {
     name: "Huzaif Ahmed",
     title: "Full Stack Developer",
     bio: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star.",
-    avatar: "/avatar.jpg",
+    avatar: "https://i.pinimg.com/736x/d4/a5/f5/d4a5f585a3470cf0c42458970be37dbc.jpg",
   },
   social: {
     github: "huzaifahmedz",
